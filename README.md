@@ -1,8 +1,6 @@
 These files are lactures notes of deep learning course by Li Mu.
 
-link:
-
-https://space.bilibili.com/209599371#/channel/detail?cid=23541
+link:https://zh.gluon.ai/
 
 Lecture 1:
 
